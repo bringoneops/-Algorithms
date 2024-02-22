@@ -1,0 +1,347 @@
+2024-02-22 12:58:45,806 - DEBUG - Starting run 1 with NUM_ITERATIONS=1000
+2024-02-22 12:58:45,806 - DEBUG - Testing input size 2
+2024-02-22 12:58:45,809 - DEBUG - Input Size: 2, BruteForce Time: 8.988380432128906e-07, Recursive Time: 1.531362533569336e-06
+2024-02-22 12:58:45,809 - DEBUG - Testing input size 3
+2024-02-22 12:58:45,813 - DEBUG - Input Size: 3, BruteForce Time: 1.1210441589355469e-06, Recursive Time: 3.126382827758789e-06
+2024-02-22 12:58:45,813 - DEBUG - Testing input size 4
+2024-02-22 12:58:45,820 - DEBUG - Input Size: 4, BruteForce Time: 1.995086669921875e-06, Recursive Time: 4.273653030395508e-06
+2024-02-22 12:58:45,820 - DEBUG - Testing input size 5
+2024-02-22 12:58:45,827 - DEBUG - Input Size: 5, BruteForce Time: 2.177715301513672e-06, Recursive Time: 4.896640777587891e-06
+2024-02-22 12:58:45,827 - DEBUG - Testing input size 6
+2024-02-22 12:58:45,835 - DEBUG - Input Size: 6, BruteForce Time: 2.490520477294922e-06, Recursive Time: 5.8355331420898435e-06
+2024-02-22 12:58:45,835 - DEBUG - Testing input size 7
+2024-02-22 12:58:45,849 - DEBUG - Input Size: 7, BruteForce Time: 4.407167434692383e-06, Recursive Time: 9.22393798828125e-06
+2024-02-22 12:58:45,849 - DEBUG - Testing input size 8
+2024-02-22 12:58:45,864 - DEBUG - Input Size: 8, BruteForce Time: 4.862546920776367e-06, Recursive Time: 9.807825088500977e-06
+2024-02-22 12:58:45,864 - DEBUG - Testing input size 9
+2024-02-22 12:58:45,879 - DEBUG - Input Size: 9, BruteForce Time: 4.636287689208985e-06, Recursive Time: 1.0251283645629883e-05
+2024-02-22 12:58:45,879 - DEBUG - Testing input size 10
+2024-02-22 12:58:45,896 - DEBUG - Input Size: 10, BruteForce Time: 5.583763122558594e-06, Recursive Time: 1.0947465896606446e-05
+2024-02-22 12:58:45,896 - DEBUG - Testing input size 11
+2024-02-22 12:58:45,914 - DEBUG - Input Size: 11, BruteForce Time: 5.903959274291993e-06, Recursive Time: 1.2404680252075196e-05
+2024-02-22 12:58:45,914 - DEBUG - Testing input size 12
+2024-02-22 12:58:45,933 - DEBUG - Input Size: 12, BruteForce Time: 6.502151489257812e-06, Recursive Time: 1.2420415878295898e-05
+2024-02-22 12:58:45,933 - DEBUG - Testing input size 13
+2024-02-22 12:58:45,955 - DEBUG - Input Size: 13, BruteForce Time: 7.405996322631836e-06, Recursive Time: 1.3680696487426758e-05
+2024-02-22 12:58:45,955 - DEBUG - Testing input size 14
+2024-02-22 12:58:45,978 - DEBUG - Input Size: 14, BruteForce Time: 8.281946182250977e-06, Recursive Time: 1.4958143234252929e-05
+2024-02-22 12:58:45,978 - DEBUG - Testing input size 15
+2024-02-22 12:58:46,003 - DEBUG - Input Size: 15, BruteForce Time: 8.95380973815918e-06, Recursive Time: 1.6139507293701172e-05
+2024-02-22 12:58:46,003 - DEBUG - Testing input size 16
+2024-02-22 12:58:46,031 - DEBUG - Input Size: 16, BruteForce Time: 1.055002212524414e-05, Recursive Time: 1.7182826995849608e-05
+2024-02-22 12:58:46,031 - DEBUG - Testing input size 17
+2024-02-22 12:58:46,062 - DEBUG - Input Size: 17, BruteForce Time: 1.1208772659301757e-05, Recursive Time: 1.9364833831787108e-05
+2024-02-22 12:58:46,062 - DEBUG - Testing input size 18
+2024-02-22 12:58:46,094 - DEBUG - Input Size: 18, BruteForce Time: 1.236581802368164e-05, Recursive Time: 1.992654800415039e-05
+2024-02-22 12:58:46,094 - DEBUG - Testing input size 19
+2024-02-22 12:58:46,148 - DEBUG - Input Size: 19, BruteForce Time: 2.439451217651367e-05, Recursive Time: 2.8993129730224608e-05
+2024-02-22 12:58:46,148 - DEBUG - Testing input size 20
+2024-02-22 12:58:46,192 - DEBUG - Input Size: 20, BruteForce Time: 1.7574310302734376e-05, Recursive Time: 2.6305675506591798e-05
+2024-02-22 12:58:46,192 - DEBUG - Testing input size 21
+2024-02-22 12:58:46,240 - DEBUG - Input Size: 21, BruteForce Time: 1.9259214401245116e-05, Recursive Time: 2.838420867919922e-05
+2024-02-22 12:58:46,240 - DEBUG - Testing input size 22
+2024-02-22 12:58:46,295 - DEBUG - Input Size: 22, BruteForce Time: 2.1531105041503908e-05, Recursive Time: 3.3803224563598634e-05
+2024-02-22 12:58:46,295 - DEBUG - Testing input size 23
+2024-02-22 12:58:46,351 - DEBUG - Input Size: 23, BruteForce Time: 2.2893667221069335e-05, Recursive Time: 3.278374671936035e-05
+2024-02-22 12:58:46,351 - DEBUG - Testing input size 24
+2024-02-22 12:58:46,404 - DEBUG - Input Size: 24, BruteForce Time: 2.4211645126342774e-05, Recursive Time: 2.841806411743164e-05
+2024-02-22 12:58:46,404 - DEBUG - Testing input size 25
+2024-02-22 12:58:46,459 - DEBUG - Input Size: 25, BruteForce Time: 2.5539398193359376e-05, Recursive Time: 2.9744863510131836e-05
+2024-02-22 12:58:46,459 - DEBUG - Testing input size 26
+2024-02-22 12:58:46,516 - DEBUG - Input Size: 26, BruteForce Time: 2.487301826477051e-05, Recursive Time: 3.131961822509766e-05
+2024-02-22 12:58:46,516 - DEBUG - Testing input size 27
+2024-02-22 12:58:46,577 - DEBUG - Input Size: 27, BruteForce Time: 2.7779340744018555e-05, Recursive Time: 3.326845169067383e-05
+2024-02-22 12:58:46,577 - DEBUG - Testing input size 28
+2024-02-22 12:58:46,640 - DEBUG - Input Size: 28, BruteForce Time: 2.922964096069336e-05, Recursive Time: 3.358173370361328e-05
+2024-02-22 12:58:46,640 - DEBUG - Testing input size 29
+2024-02-22 12:58:46,707 - DEBUG - Input Size: 29, BruteForce Time: 3.2865762710571287e-05, Recursive Time: 3.3884048461914064e-05
+2024-02-22 12:58:46,707 - DEBUG - Testing input size 30
+2024-02-22 12:58:46,775 - DEBUG - Input Size: 30, BruteForce Time: 3.205728530883789e-05, Recursive Time: 3.623080253601074e-05
+2024-02-22 12:58:46,775 - DEBUG - Testing input size 31
+2024-02-22 12:58:46,846 - DEBUG - Input Size: 31, BruteForce Time: 3.388500213623047e-05, Recursive Time: 3.699040412902832e-05
+2024-02-22 12:58:46,846 - DEBUG - Testing input size 32
+2024-02-22 12:58:46,917 - DEBUG - Input Size: 32, BruteForce Time: 3.461837768554687e-05, Recursive Time: 3.635382652282715e-05
+2024-02-22 12:58:46,917 - DEBUG - Testing input size 33
+2024-02-22 12:58:46,990 - DEBUG - Input Size: 33, BruteForce Time: 3.513646125793457e-05, Recursive Time: 3.730082511901855e-05
+2024-02-22 12:58:46,990 - DEBUG - Testing input size 34
+2024-02-22 12:58:47,071 - DEBUG - Input Size: 34, BruteForce Time: 4.022645950317383e-05, Recursive Time: 4.0535688400268556e-05
+2024-02-22 12:58:47,071 - DEBUG - Testing input size 35
+2024-02-22 12:58:47,154 - DEBUG - Input Size: 35, BruteForce Time: 4.121875762939453e-05, Recursive Time: 4.129195213317871e-05
+2024-02-22 12:58:47,154 - DEBUG - Testing input size 36
+2024-02-22 12:58:47,252 - DEBUG - Input Size: 36, BruteForce Time: 5.155181884765625e-05, Recursive Time: 4.6958208084106444e-05
+2024-02-22 12:58:47,252 - INFO - Run 1: Crossover point found at input size = 36
+2024-02-22 12:58:47,253 - DEBUG - Starting run 2 with NUM_ITERATIONS=1000
+2024-02-22 12:58:47,253 - DEBUG - Testing input size 2
+2024-02-22 12:58:47,255 - DEBUG - Input Size: 2, BruteForce Time: 8.585453033447266e-07, Recursive Time: 1.3687610626220702e-06
+2024-02-22 12:58:47,255 - DEBUG - Testing input size 3
+2024-02-22 12:58:47,259 - DEBUG - Input Size: 3, BruteForce Time: 1.1529922485351563e-06, Recursive Time: 2.8176307678222655e-06
+2024-02-22 12:58:47,259 - DEBUG - Testing input size 4
+2024-02-22 12:58:47,264 - DEBUG - Input Size: 4, BruteForce Time: 1.6276836395263672e-06, Recursive Time: 3.6001205444335937e-06
+2024-02-22 12:58:47,264 - DEBUG - Testing input size 5
+2024-02-22 12:58:47,271 - DEBUG - Input Size: 5, BruteForce Time: 1.8951892852783203e-06, Recursive Time: 4.6370029449462894e-06
+2024-02-22 12:58:47,271 - DEBUG - Testing input size 6
+2024-02-22 12:58:47,279 - DEBUG - Input Size: 6, BruteForce Time: 2.3686885833740236e-06, Recursive Time: 5.734443664550781e-06
+2024-02-22 12:58:47,279 - DEBUG - Testing input size 7
+2024-02-22 12:58:47,289 - DEBUG - Input Size: 7, BruteForce Time: 3.392219543457031e-06, Recursive Time: 6.752967834472657e-06
+2024-02-22 12:58:47,289 - DEBUG - Testing input size 8
+2024-02-22 12:58:47,303 - DEBUG - Input Size: 8, BruteForce Time: 3.544330596923828e-06, Recursive Time: 9.666919708251953e-06
+2024-02-22 12:58:47,303 - DEBUG - Testing input size 9
+2024-02-22 12:58:47,317 - DEBUG - Input Size: 9, BruteForce Time: 4.812240600585938e-06, Recursive Time: 9.874343872070312e-06
+2024-02-22 12:58:47,318 - DEBUG - Testing input size 10
+2024-02-22 12:58:47,333 - DEBUG - Input Size: 10, BruteForce Time: 5.066871643066406e-06, Recursive Time: 1.0527372360229492e-05
+2024-02-22 12:58:47,333 - DEBUG - Testing input size 11
+2024-02-22 12:58:47,353 - DEBUG - Input Size: 11, BruteForce Time: 6.033897399902344e-06, Recursive Time: 1.3103485107421875e-05
+2024-02-22 12:58:47,353 - DEBUG - Testing input size 12
+2024-02-22 12:58:47,373 - DEBUG - Input Size: 12, BruteForce Time: 6.4728260040283205e-06, Recursive Time: 1.3452768325805663e-05
+2024-02-22 12:58:47,373 - DEBUG - Testing input size 13
+2024-02-22 12:58:47,395 - DEBUG - Input Size: 13, BruteForce Time: 7.642745971679687e-06, Recursive Time: 1.4207601547241211e-05
+2024-02-22 12:58:47,395 - DEBUG - Testing input size 14
+2024-02-22 12:58:47,418 - DEBUG - Input Size: 14, BruteForce Time: 8.12077522277832e-06, Recursive Time: 1.5106916427612305e-05
+2024-02-22 12:58:47,418 - DEBUG - Testing input size 15
+2024-02-22 12:58:47,444 - DEBUG - Input Size: 15, BruteForce Time: 9.179830551147461e-06, Recursive Time: 1.7167091369628907e-05
+2024-02-22 12:58:47,444 - DEBUG - Testing input size 16
+2024-02-22 12:58:47,474 - DEBUG - Input Size: 16, BruteForce Time: 1.0907649993896484e-05, Recursive Time: 1.903676986694336e-05
+2024-02-22 12:58:47,474 - DEBUG - Testing input size 17
+2024-02-22 12:58:47,508 - DEBUG - Input Size: 17, BruteForce Time: 1.1922597885131835e-05, Recursive Time: 2.1231889724731445e-05
+2024-02-22 12:58:47,508 - DEBUG - Testing input size 18
+2024-02-22 12:58:47,542 - DEBUG - Input Size: 18, BruteForce Time: 1.312565803527832e-05, Recursive Time: 2.1084070205688478e-05
+2024-02-22 12:58:47,542 - DEBUG - Testing input size 19
+2024-02-22 12:58:47,577 - DEBUG - Input Size: 19, BruteForce Time: 1.3427495956420899e-05, Recursive Time: 2.1694660186767578e-05
+2024-02-22 12:58:47,577 - DEBUG - Testing input size 20
+2024-02-22 12:58:47,614 - DEBUG - Input Size: 20, BruteForce Time: 1.511979103088379e-05, Recursive Time: 2.157759666442871e-05
+2024-02-22 12:58:47,614 - DEBUG - Testing input size 21
+2024-02-22 12:58:47,653 - DEBUG - Input Size: 21, BruteForce Time: 1.5885829925537108e-05, Recursive Time: 2.276325225830078e-05
+2024-02-22 12:58:47,653 - DEBUG - Testing input size 22
+2024-02-22 12:58:47,702 - DEBUG - Input Size: 22, BruteForce Time: 2.061748504638672e-05, Recursive Time: 2.8072595596313478e-05
+2024-02-22 12:58:47,702 - DEBUG - Testing input size 23
+2024-02-22 12:58:47,750 - DEBUG - Input Size: 23, BruteForce Time: 2.028679847717285e-05, Recursive Time: 2.808713912963867e-05
+2024-02-22 12:58:47,750 - DEBUG - Testing input size 24
+2024-02-22 12:58:47,800 - DEBUG - Input Size: 24, BruteForce Time: 2.1581411361694337e-05, Recursive Time: 2.7612924575805662e-05
+2024-02-22 12:58:47,800 - DEBUG - Testing input size 25
+2024-02-22 12:58:47,853 - DEBUG - Input Size: 25, BruteForce Time: 2.3962259292602538e-05, Recursive Time: 2.9820919036865235e-05
+2024-02-22 12:58:47,854 - DEBUG - Testing input size 26
+2024-02-22 12:58:47,908 - DEBUG - Input Size: 26, BruteForce Time: 2.3622512817382812e-05, Recursive Time: 3.0646562576293945e-05
+2024-02-22 12:58:47,908 - DEBUG - Testing input size 27
+2024-02-22 12:58:47,971 - DEBUG - Input Size: 27, BruteForce Time: 2.6654243469238283e-05, Recursive Time: 3.6401748657226564e-05
+2024-02-22 12:58:47,971 - DEBUG - Testing input size 28
+2024-02-22 12:58:48,032 - DEBUG - Input Size: 28, BruteForce Time: 2.8115034103393555e-05, Recursive Time: 3.2848596572875973e-05
+2024-02-22 12:58:48,032 - DEBUG - Testing input size 29
+2024-02-22 12:58:48,095 - DEBUG - Input Size: 29, BruteForce Time: 2.9989004135131836e-05, Recursive Time: 3.2440185546875e-05
+2024-02-22 12:58:48,095 - DEBUG - Testing input size 30
+2024-02-22 12:58:48,168 - DEBUG - Input Size: 30, BruteForce Time: 3.2159090042114256e-05, Recursive Time: 4.038238525390625e-05
+2024-02-22 12:58:48,168 - DEBUG - Testing input size 31
+2024-02-22 12:58:48,242 - DEBUG - Input Size: 31, BruteForce Time: 3.657341003417969e-05, Recursive Time: 3.772687911987305e-05
+2024-02-22 12:58:48,242 - DEBUG - Testing input size 32
+2024-02-22 12:58:48,319 - DEBUG - Input Size: 32, BruteForce Time: 3.672409057617188e-05, Recursive Time: 4.0136337280273436e-05
+2024-02-22 12:58:48,319 - DEBUG - Testing input size 33
+2024-02-22 12:58:48,401 - DEBUG - Input Size: 33, BruteForce Time: 3.999710083007812e-05, Recursive Time: 4.12130355834961e-05
+2024-02-22 12:58:48,401 - DEBUG - Testing input size 34
+2024-02-22 12:58:48,514 - DEBUG - Input Size: 34, BruteForce Time: 4.037117958068848e-05, Recursive Time: 7.23273754119873e-05
+2024-02-22 12:58:48,514 - DEBUG - Testing input size 35
+2024-02-22 12:58:48,596 - DEBUG - Input Size: 35, BruteForce Time: 4.261040687561035e-05, Recursive Time: 3.923320770263672e-05
+2024-02-22 12:58:48,596 - INFO - Run 2: Crossover point found at input size = 35
+2024-02-22 12:58:48,596 - DEBUG - Starting run 3 with NUM_ITERATIONS=1000
+2024-02-22 12:58:48,596 - DEBUG - Testing input size 2
+2024-02-22 12:58:48,598 - DEBUG - Input Size: 2, BruteForce Time: 7.655620574951172e-07, Recursive Time: 1.1777877807617188e-06
+2024-02-22 12:58:48,598 - DEBUG - Testing input size 3
+2024-02-22 12:58:48,601 - DEBUG - Input Size: 3, BruteForce Time: 1.0094642639160156e-06, Recursive Time: 2.200603485107422e-06
+2024-02-22 12:58:48,601 - DEBUG - Testing input size 4
+2024-02-22 12:58:48,607 - DEBUG - Input Size: 4, BruteForce Time: 1.5304088592529296e-06, Recursive Time: 4.227161407470703e-06
+2024-02-22 12:58:48,607 - DEBUG - Testing input size 5
+2024-02-22 12:58:48,613 - DEBUG - Input Size: 5, BruteForce Time: 1.924276351928711e-06, Recursive Time: 4.323720932006836e-06
+2024-02-22 12:58:48,613 - DEBUG - Testing input size 6
+2024-02-22 12:58:48,622 - DEBUG - Input Size: 6, BruteForce Time: 2.496480941772461e-06, Recursive Time: 5.9909820556640625e-06
+2024-02-22 12:58:48,622 - DEBUG - Testing input size 7
+2024-02-22 12:58:48,631 - DEBUG - Input Size: 7, BruteForce Time: 2.686023712158203e-06, Recursive Time: 6.560087203979492e-06
+2024-02-22 12:58:48,631 - DEBUG - Testing input size 8
+2024-02-22 12:58:48,643 - DEBUG - Input Size: 8, BruteForce Time: 3.294944763183594e-06, Recursive Time: 8.578777313232422e-06
+2024-02-22 12:58:48,643 - DEBUG - Testing input size 9
+2024-02-22 12:58:48,657 - DEBUG - Input Size: 9, BruteForce Time: 4.20069694519043e-06, Recursive Time: 9.225606918334961e-06
+2024-02-22 12:58:48,657 - DEBUG - Testing input size 10
+2024-02-22 12:58:48,675 - DEBUG - Input Size: 10, BruteForce Time: 4.671096801757812e-06, Recursive Time: 1.3289928436279296e-05
+2024-02-22 12:58:48,675 - DEBUG - Testing input size 11
+2024-02-22 12:58:48,693 - DEBUG - Input Size: 11, BruteForce Time: 5.817174911499024e-06, Recursive Time: 1.2136459350585938e-05
+2024-02-22 12:58:48,693 - DEBUG - Testing input size 12
+2024-02-22 12:58:48,714 - DEBUG - Input Size: 12, BruteForce Time: 6.695747375488281e-06, Recursive Time: 1.4409542083740235e-05
+2024-02-22 12:58:48,714 - DEBUG - Testing input size 13
+2024-02-22 12:58:48,735 - DEBUG - Input Size: 13, BruteForce Time: 7.332086563110352e-06, Recursive Time: 1.3713359832763672e-05
+2024-02-22 12:58:48,735 - DEBUG - Testing input size 14
+2024-02-22 12:58:48,759 - DEBUG - Input Size: 14, BruteForce Time: 8.32533836364746e-06, Recursive Time: 1.5192031860351562e-05
+2024-02-22 12:58:48,759 - DEBUG - Testing input size 15
+2024-02-22 12:58:48,785 - DEBUG - Input Size: 15, BruteForce Time: 9.433746337890624e-06, Recursive Time: 1.611948013305664e-05
+2024-02-22 12:58:48,785 - DEBUG - Testing input size 16
+2024-02-22 12:58:48,815 - DEBUG - Input Size: 16, BruteForce Time: 1.1329412460327148e-05, Recursive Time: 1.8869876861572266e-05
+2024-02-22 12:58:48,815 - DEBUG - Testing input size 17
+2024-02-22 12:58:48,847 - DEBUG - Input Size: 17, BruteForce Time: 1.141047477722168e-05, Recursive Time: 2.013397216796875e-05
+2024-02-22 12:58:48,847 - DEBUG - Testing input size 18
+2024-02-22 12:58:48,882 - DEBUG - Input Size: 18, BruteForce Time: 1.4104843139648437e-05, Recursive Time: 2.1202802658081054e-05
+2024-02-22 12:58:48,882 - DEBUG - Testing input size 19
+2024-02-22 12:58:48,920 - DEBUG - Input Size: 19, BruteForce Time: 1.467609405517578e-05, Recursive Time: 2.2796154022216798e-05
+2024-02-22 12:58:48,920 - DEBUG - Testing input size 20
+2024-02-22 12:58:48,957 - DEBUG - Input Size: 20, BruteForce Time: 1.5163183212280273e-05, Recursive Time: 2.252984046936035e-05
+2024-02-22 12:58:48,958 - DEBUG - Testing input size 21
+2024-02-22 12:58:48,998 - DEBUG - Input Size: 21, BruteForce Time: 1.642417907714844e-05, Recursive Time: 2.366495132446289e-05
+2024-02-22 12:58:48,998 - DEBUG - Testing input size 22
+2024-02-22 12:58:49,043 - DEBUG - Input Size: 22, BruteForce Time: 1.8635034561157227e-05, Recursive Time: 2.6273965835571287e-05
+2024-02-22 12:58:49,043 - DEBUG - Testing input size 23
+2024-02-22 12:58:49,091 - DEBUG - Input Size: 23, BruteForce Time: 2.0543336868286134e-05, Recursive Time: 2.720475196838379e-05
+2024-02-22 12:58:49,091 - DEBUG - Testing input size 24
+2024-02-22 12:58:49,143 - DEBUG - Input Size: 24, BruteForce Time: 2.3914098739624023e-05, Recursive Time: 2.8165340423583984e-05
+2024-02-22 12:58:49,143 - DEBUG - Testing input size 25
+2024-02-22 12:58:49,203 - DEBUG - Input Size: 25, BruteForce Time: 2.8402328491210938e-05, Recursive Time: 3.16934585571289e-05
+2024-02-22 12:58:49,203 - DEBUG - Testing input size 26
+2024-02-22 12:58:49,261 - DEBUG - Input Size: 26, BruteForce Time: 2.3221731185913086e-05, Recursive Time: 3.4838438034057615e-05
+2024-02-22 12:58:49,261 - DEBUG - Testing input size 27
+2024-02-22 12:58:49,321 - DEBUG - Input Size: 27, BruteForce Time: 2.58331298828125e-05, Recursive Time: 3.410506248474121e-05
+2024-02-22 12:58:49,322 - DEBUG - Testing input size 28
+2024-02-22 12:58:49,384 - DEBUG - Input Size: 28, BruteForce Time: 2.981877326965332e-05, Recursive Time: 3.275012969970703e-05
+2024-02-22 12:58:49,384 - DEBUG - Testing input size 29
+2024-02-22 12:58:49,446 - DEBUG - Input Size: 29, BruteForce Time: 2.9075860977172852e-05, Recursive Time: 3.27610969543457e-05
+2024-02-22 12:58:49,446 - DEBUG - Testing input size 30
+2024-02-22 12:58:49,514 - DEBUG - Input Size: 30, BruteForce Time: 3.1900882720947264e-05, Recursive Time: 3.5937786102294924e-05
+2024-02-22 12:58:49,514 - DEBUG - Testing input size 31
+2024-02-22 12:58:49,587 - DEBUG - Input Size: 31, BruteForce Time: 3.55377197265625e-05, Recursive Time: 3.740239143371582e-05
+2024-02-22 12:58:49,587 - DEBUG - Testing input size 32
+2024-02-22 12:58:49,659 - DEBUG - Input Size: 32, BruteForce Time: 3.533363342285156e-05, Recursive Time: 3.620791435241699e-05
+2024-02-22 12:58:49,659 - DEBUG - Testing input size 33
+2024-02-22 12:58:49,737 - DEBUG - Input Size: 33, BruteForce Time: 3.851771354675293e-05, Recursive Time: 3.9376735687255856e-05
+2024-02-22 12:58:49,737 - DEBUG - Testing input size 34
+2024-02-22 12:58:49,820 - DEBUG - Input Size: 34, BruteForce Time: 4.1762828826904296e-05, Recursive Time: 4.093456268310547e-05
+2024-02-22 12:58:49,820 - INFO - Run 3: Crossover point found at input size = 34
+2024-02-22 12:58:49,820 - DEBUG - Starting run 4 with NUM_ITERATIONS=1000
+2024-02-22 12:58:49,820 - DEBUG - Testing input size 2
+2024-02-22 12:58:49,822 - DEBUG - Input Size: 2, BruteForce Time: 7.843971252441406e-07, Recursive Time: 1.2145042419433594e-06
+2024-02-22 12:58:49,822 - DEBUG - Testing input size 3
+2024-02-22 12:58:49,826 - DEBUG - Input Size: 3, BruteForce Time: 9.944438934326173e-07, Recursive Time: 2.3655891418457033e-06
+2024-02-22 12:58:49,826 - DEBUG - Testing input size 4
+2024-02-22 12:58:49,832 - DEBUG - Input Size: 4, BruteForce Time: 1.4238357543945313e-06, Recursive Time: 4.358291625976563e-06
+2024-02-22 12:58:49,832 - DEBUG - Testing input size 5
+2024-02-22 12:58:49,838 - DEBUG - Input Size: 5, BruteForce Time: 1.8362998962402344e-06, Recursive Time: 4.662275314331055e-06
+2024-02-22 12:58:49,838 - DEBUG - Testing input size 6
+2024-02-22 12:58:49,846 - DEBUG - Input Size: 6, BruteForce Time: 2.349853515625e-06, Recursive Time: 5.440950393676758e-06
+2024-02-22 12:58:49,846 - DEBUG - Testing input size 7
+2024-02-22 12:58:49,856 - DEBUG - Input Size: 7, BruteForce Time: 2.801179885864258e-06, Recursive Time: 6.662368774414062e-06
+2024-02-22 12:58:49,856 - DEBUG - Testing input size 8
+2024-02-22 12:58:49,867 - DEBUG - Input Size: 8, BruteForce Time: 3.2749176025390627e-06, Recursive Time: 8.437871932983398e-06
+2024-02-22 12:58:49,867 - DEBUG - Testing input size 9
+2024-02-22 12:58:49,881 - DEBUG - Input Size: 9, BruteForce Time: 4.303455352783203e-06, Recursive Time: 8.875608444213866e-06
+2024-02-22 12:58:49,881 - DEBUG - Testing input size 10
+2024-02-22 12:58:49,895 - DEBUG - Input Size: 10, BruteForce Time: 4.621267318725586e-06, Recursive Time: 9.919404983520507e-06
+2024-02-22 12:58:49,895 - DEBUG - Testing input size 11
+2024-02-22 12:58:49,911 - DEBUG - Input Size: 11, BruteForce Time: 5.272626876831054e-06, Recursive Time: 1.0854721069335937e-05
+2024-02-22 12:58:49,911 - DEBUG - Testing input size 12
+2024-02-22 12:58:49,930 - DEBUG - Input Size: 12, BruteForce Time: 5.909919738769531e-06, Recursive Time: 1.217031478881836e-05
+2024-02-22 12:58:49,930 - DEBUG - Testing input size 13
+2024-02-22 12:58:49,951 - DEBUG - Input Size: 13, BruteForce Time: 7.056474685668946e-06, Recursive Time: 1.3851642608642578e-05
+2024-02-22 12:58:49,951 - DEBUG - Testing input size 14
+2024-02-22 12:58:49,975 - DEBUG - Input Size: 14, BruteForce Time: 8.290290832519531e-06, Recursive Time: 1.6110420227050782e-05
+2024-02-22 12:58:49,975 - DEBUG - Testing input size 15
+2024-02-22 12:58:50,002 - DEBUG - Input Size: 15, BruteForce Time: 9.459972381591796e-06, Recursive Time: 1.757097244262695e-05
+2024-02-22 12:58:50,002 - DEBUG - Testing input size 16
+2024-02-22 12:58:50,031 - DEBUG - Input Size: 16, BruteForce Time: 1.0777711868286132e-05, Recursive Time: 1.812267303466797e-05
+2024-02-22 12:58:50,031 - DEBUG - Testing input size 17
+2024-02-22 12:58:50,061 - DEBUG - Input Size: 17, BruteForce Time: 1.1510848999023438e-05, Recursive Time: 1.8523454666137695e-05
+2024-02-22 12:58:50,062 - DEBUG - Testing input size 18
+2024-02-22 12:58:50,094 - DEBUG - Input Size: 18, BruteForce Time: 1.3158321380615234e-05, Recursive Time: 1.960444450378418e-05
+2024-02-22 12:58:50,095 - DEBUG - Testing input size 19
+2024-02-22 12:58:50,129 - DEBUG - Input Size: 19, BruteForce Time: 1.4380693435668945e-05, Recursive Time: 2.03397274017334e-05
+2024-02-22 12:58:50,129 - DEBUG - Testing input size 20
+2024-02-22 12:58:50,174 - DEBUG - Input Size: 20, BruteForce Time: 1.5090227127075195e-05, Recursive Time: 2.9006004333496093e-05
+2024-02-22 12:58:50,174 - DEBUG - Testing input size 21
+2024-02-22 12:58:50,217 - DEBUG - Input Size: 21, BruteForce Time: 1.8841028213500978e-05, Recursive Time: 2.4209022521972658e-05
+2024-02-22 12:58:50,217 - DEBUG - Testing input size 22
+2024-02-22 12:58:50,264 - DEBUG - Input Size: 22, BruteForce Time: 2.131175994873047e-05, Recursive Time: 2.560257911682129e-05
+2024-02-22 12:58:50,264 - DEBUG - Testing input size 23
+2024-02-22 12:58:50,312 - DEBUG - Input Size: 23, BruteForce Time: 1.9942760467529297e-05, Recursive Time: 2.7815818786621095e-05
+2024-02-22 12:58:50,312 - DEBUG - Testing input size 24
+2024-02-22 12:58:50,362 - DEBUG - Input Size: 24, BruteForce Time: 2.2454261779785158e-05, Recursive Time: 2.7906417846679688e-05
+2024-02-22 12:58:50,363 - DEBUG - Testing input size 25
+2024-02-22 12:58:50,416 - DEBUG - Input Size: 25, BruteForce Time: 2.4485349655151367e-05, Recursive Time: 2.9349088668823243e-05
+2024-02-22 12:58:50,417 - DEBUG - Testing input size 26
+2024-02-22 12:58:50,473 - DEBUG - Input Size: 26, BruteForce Time: 2.575397491455078e-05, Recursive Time: 3.0649423599243163e-05
+2024-02-22 12:58:50,473 - DEBUG - Testing input size 27
+2024-02-22 12:58:50,531 - DEBUG - Input Size: 27, BruteForce Time: 2.6003122329711914e-05, Recursive Time: 3.1691551208496095e-05
+2024-02-22 12:58:50,531 - DEBUG - Testing input size 28
+2024-02-22 12:58:50,589 - DEBUG - Input Size: 28, BruteForce Time: 2.6551008224487305e-05, Recursive Time: 3.118014335632324e-05
+2024-02-22 12:58:50,589 - DEBUG - Testing input size 29
+2024-02-22 12:58:50,651 - DEBUG - Input Size: 29, BruteForce Time: 2.8398275375366212e-05, Recursive Time: 3.385782241821289e-05
+2024-02-22 12:58:50,651 - DEBUG - Testing input size 30
+2024-02-22 12:58:50,718 - DEBUG - Input Size: 30, BruteForce Time: 3.2279729843139646e-05, Recursive Time: 3.4594297409057615e-05
+2024-02-22 12:58:50,718 - DEBUG - Testing input size 31
+2024-02-22 12:58:50,787 - DEBUG - Input Size: 31, BruteForce Time: 3.321528434753418e-05, Recursive Time: 3.504824638366699e-05
+2024-02-22 12:58:50,787 - DEBUG - Testing input size 32
+2024-02-22 12:58:50,858 - DEBUG - Input Size: 32, BruteForce Time: 3.481078147888184e-05, Recursive Time: 3.6724567413330076e-05
+2024-02-22 12:58:50,858 - DEBUG - Testing input size 33
+2024-02-22 12:58:50,935 - DEBUG - Input Size: 33, BruteForce Time: 3.739023208618164e-05, Recursive Time: 3.9319992065429685e-05
+2024-02-22 12:58:50,935 - DEBUG - Testing input size 34
+2024-02-22 12:58:51,013 - DEBUG - Input Size: 34, BruteForce Time: 3.9016485214233396e-05, Recursive Time: 3.896474838256836e-05
+2024-02-22 12:58:51,013 - INFO - Run 4: Crossover point found at input size = 34
+2024-02-22 12:58:51,013 - DEBUG - Starting run 5 with NUM_ITERATIONS=1000
+2024-02-22 12:58:51,013 - DEBUG - Testing input size 2
+2024-02-22 12:58:51,015 - DEBUG - Input Size: 2, BruteForce Time: 7.450580596923828e-07, Recursive Time: 1.268148422241211e-06
+2024-02-22 12:58:51,015 - DEBUG - Testing input size 3
+2024-02-22 12:58:51,019 - DEBUG - Input Size: 3, BruteForce Time: 1.0504722595214843e-06, Recursive Time: 2.320528030395508e-06
+2024-02-22 12:58:51,019 - DEBUG - Testing input size 4
+2024-02-22 12:58:51,024 - DEBUG - Input Size: 4, BruteForce Time: 1.4543533325195312e-06, Recursive Time: 3.2167434692382815e-06
+2024-02-22 12:58:51,024 - DEBUG - Testing input size 5
+2024-02-22 12:58:51,030 - DEBUG - Input Size: 5, BruteForce Time: 1.8146038055419921e-06, Recursive Time: 4.2929649353027344e-06
+2024-02-22 12:58:51,030 - DEBUG - Testing input size 6
+2024-02-22 12:58:51,037 - DEBUG - Input Size: 6, BruteForce Time: 2.1846294403076172e-06, Recursive Time: 5.509376525878906e-06
+2024-02-22 12:58:51,038 - DEBUG - Testing input size 7
+2024-02-22 12:58:51,047 - DEBUG - Input Size: 7, BruteForce Time: 2.897024154663086e-06, Recursive Time: 6.441354751586914e-06
+2024-02-22 12:58:51,047 - DEBUG - Testing input size 8
+2024-02-22 12:58:51,058 - DEBUG - Input Size: 8, BruteForce Time: 3.2100677490234376e-06, Recursive Time: 7.466316223144531e-06
+2024-02-22 12:58:51,058 - DEBUG - Testing input size 9
+2024-02-22 12:58:51,072 - DEBUG - Input Size: 9, BruteForce Time: 4.560232162475586e-06, Recursive Time: 9.608745574951172e-06
+2024-02-22 12:58:51,072 - DEBUG - Testing input size 10
+2024-02-22 12:58:51,087 - DEBUG - Input Size: 10, BruteForce Time: 5.025148391723633e-06, Recursive Time: 9.91511344909668e-06
+2024-02-22 12:58:51,087 - DEBUG - Testing input size 11
+2024-02-22 12:58:51,105 - DEBUG - Input Size: 11, BruteForce Time: 5.28717041015625e-06, Recursive Time: 1.2889862060546875e-05
+2024-02-22 12:58:51,105 - DEBUG - Testing input size 12
+2024-02-22 12:58:51,125 - DEBUG - Input Size: 12, BruteForce Time: 6.282329559326172e-06, Recursive Time: 1.2904644012451171e-05
+2024-02-22 12:58:51,125 - DEBUG - Testing input size 13
+2024-02-22 12:58:51,146 - DEBUG - Input Size: 13, BruteForce Time: 8.27479362487793e-06, Recursive Time: 1.3305425643920899e-05
+2024-02-22 12:58:51,146 - DEBUG - Testing input size 14
+2024-02-22 12:58:51,172 - DEBUG - Input Size: 14, BruteForce Time: 8.843183517456055e-06, Recursive Time: 1.7192840576171874e-05
+2024-02-22 12:58:51,173 - DEBUG - Testing input size 15
+2024-02-22 12:58:51,200 - DEBUG - Input Size: 15, BruteForce Time: 1.1095762252807618e-05, Recursive Time: 1.633930206298828e-05
+2024-02-22 12:58:51,200 - DEBUG - Testing input size 16
+2024-02-22 12:58:51,228 - DEBUG - Input Size: 16, BruteForce Time: 1.029229164123535e-05, Recursive Time: 1.7215967178344727e-05
+2024-02-22 12:58:51,228 - DEBUG - Testing input size 17
+2024-02-22 12:58:51,260 - DEBUG - Input Size: 17, BruteForce Time: 1.3666868209838867e-05, Recursive Time: 1.871180534362793e-05
+2024-02-22 12:58:51,260 - DEBUG - Testing input size 18
+2024-02-22 12:58:51,294 - DEBUG - Input Size: 18, BruteForce Time: 1.2603759765625e-05, Recursive Time: 2.052164077758789e-05
+2024-02-22 12:58:51,294 - DEBUG - Testing input size 19
+2024-02-22 12:58:51,332 - DEBUG - Input Size: 19, BruteForce Time: 1.573014259338379e-05, Recursive Time: 2.2243499755859377e-05
+2024-02-22 12:58:51,332 - DEBUG - Testing input size 20
+2024-02-22 12:58:51,372 - DEBUG - Input Size: 20, BruteForce Time: 1.665806770324707e-05, Recursive Time: 2.371501922607422e-05
+2024-02-22 12:58:51,372 - DEBUG - Testing input size 21
+2024-02-22 12:58:51,413 - DEBUG - Input Size: 21, BruteForce Time: 1.6161441802978516e-05, Recursive Time: 2.4751186370849608e-05
+2024-02-22 12:58:51,413 - DEBUG - Testing input size 22
+2024-02-22 12:58:51,456 - DEBUG - Input Size: 22, BruteForce Time: 1.7903804779052733e-05, Recursive Time: 2.462172508239746e-05
+2024-02-22 12:58:51,456 - DEBUG - Testing input size 23
+2024-02-22 12:58:51,502 - DEBUG - Input Size: 23, BruteForce Time: 1.9495248794555665e-05, Recursive Time: 2.6108264923095703e-05
+2024-02-22 12:58:51,502 - DEBUG - Testing input size 24
+2024-02-22 12:58:51,553 - DEBUG - Input Size: 24, BruteForce Time: 2.1626234054565428e-05, Recursive Time: 2.908444404602051e-05
+2024-02-22 12:58:51,553 - DEBUG - Testing input size 25
+2024-02-22 12:58:51,606 - DEBUG - Input Size: 25, BruteForce Time: 2.3055076599121094e-05, Recursive Time: 3.010439872741699e-05
+2024-02-22 12:58:51,606 - DEBUG - Testing input size 26
+2024-02-22 12:58:51,660 - DEBUG - Input Size: 26, BruteForce Time: 2.4546384811401367e-05, Recursive Time: 2.9711484909057617e-05
+2024-02-22 12:58:51,660 - DEBUG - Testing input size 27
+2024-02-22 12:58:51,722 - DEBUG - Input Size: 27, BruteForce Time: 2.8978824615478517e-05, Recursive Time: 3.2651185989379886e-05
+2024-02-22 12:58:51,722 - DEBUG - Testing input size 28
+2024-02-22 12:58:51,784 - DEBUG - Input Size: 28, BruteForce Time: 2.8622627258300783e-05, Recursive Time: 3.328514099121094e-05
+2024-02-22 12:58:51,784 - DEBUG - Testing input size 29
+2024-02-22 12:58:51,850 - DEBUG - Input Size: 29, BruteForce Time: 3.1386852264404294e-05, Recursive Time: 3.4455299377441404e-05
+2024-02-22 12:58:51,850 - DEBUG - Testing input size 30
+2024-02-22 12:58:51,914 - DEBUG - Input Size: 30, BruteForce Time: 3.0191421508789064e-05, Recursive Time: 3.3493757247924806e-05
+2024-02-22 12:58:51,914 - DEBUG - Testing input size 31
+2024-02-22 12:58:51,986 - DEBUG - Input Size: 31, BruteForce Time: 3.4550189971923825e-05, Recursive Time: 3.6867856979370115e-05
+2024-02-22 12:58:51,986 - DEBUG - Testing input size 32
+2024-02-22 12:58:52,062 - DEBUG - Input Size: 32, BruteForce Time: 3.7495851516723634e-05, Recursive Time: 3.8907766342163087e-05
+2024-02-22 12:58:52,062 - DEBUG - Testing input size 33
+2024-02-22 12:58:52,138 - DEBUG - Input Size: 33, BruteForce Time: 3.774571418762207e-05, Recursive Time: 3.821229934692383e-05
+2024-02-22 12:58:52,138 - DEBUG - Testing input size 34
+2024-02-22 12:58:52,230 - DEBUG - Input Size: 34, BruteForce Time: 4.8836231231689454e-05, Recursive Time: 4.303908348083496e-05
+2024-02-22 12:58:52,230 - INFO - Run 5: Crossover point found at input size = 34
+2024-02-22 12:58:52,230 - INFO - Average Crossover Point after 5 runs: 34.6
